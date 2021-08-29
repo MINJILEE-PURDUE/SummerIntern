@@ -13,7 +13,7 @@
 
 ### Sunday, 29th
 -Today's Non-Technical Tasks
-* aa
+* DSOC Meet Up (Diverse Student Organization Council) at Noon @Memorial Mall
 
 -Today's Technical Tasks
 * aa
