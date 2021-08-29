@@ -1,5 +1,6 @@
 # Minji Daily Work-Log
 
+
 ## 1st Week 08/22-08/28
 ### Sunday, 22th
 -Today's Non-Technical Tasks
