@@ -13,8 +13,8 @@
 - Dynamic environments: be able to adapt to new data
 - Getting insides about complex problems and large amount of data
 
-### Types of ML systems
-: Supervised Learning and Unsupervised Learning based on "labeled".
+It is divided into several types: Supervised learning and Unsupervised learning based on "labeled". + Reinforcement learning
+
 
 #### Supervised Learning
 - classification
