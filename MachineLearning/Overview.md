@@ -13,12 +13,11 @@
 - Dynamic environments: be able to adapt to new data
 - Getting insides about complex problems and large amount of data
 
-It is divided into several types: Supervised learning and Unsupervised learning based on "labeled". + Reinforcement learning
+It is divided into several types: Supervised learning and Unsupervised learning based on "labeled". (+Reinforcement learning)
 
-
-#### Supervised Learning
+#### Supervised Learning (labeled)
 - classification
 - regression
 
-#### Unsupervised Learning
+#### Unsupervised Learning (unlabeled)
 - clustering
