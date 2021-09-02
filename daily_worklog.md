@@ -43,3 +43,4 @@
 * 623 HW1 submission until tonight
 * Pandas practice example with this link: https://www.youtube.com/watch?v=lG8pEwvYwCw
 * sklearn: https://www.youtube.com/watch?v=a_F6Zu2-B1k
+* try this example: https://www.freecodecamp.org/news/end-to-end-machine-learning-project-turorial/
