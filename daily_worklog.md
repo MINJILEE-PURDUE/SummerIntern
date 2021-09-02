@@ -22,7 +22,7 @@
 * Set up the schedule with Xiouri for 9/10 instead of 9/6
 
 -Today's Technical Tasks
-* Permutation & Combination definition review (link: https://blog.naver.com/prayer2k/222457755554)
+* Permutation & Combination definition review (link: https://blog.naver.com/prayer2k/222457755554, https://www.youtube.com/watch?v=1I6fAgEOPt4)
 * Read up train_test_split() usages (link: https://blog.naver.com/gustn3964/221431914515)
 * Read up the document randn vs rand (link: https://newbedev.com/differences-between-numpy-random-rand-vs-numpy-random-randn-in-python)
 
