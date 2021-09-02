@@ -40,3 +40,4 @@
 -Things to do:
 * Need to look at several modules of Python ML
 * 623 HW1 submission until tonight
+* Pandas practice example with this link: https://www.youtube.com/watch?v=lG8pEwvYwCw
