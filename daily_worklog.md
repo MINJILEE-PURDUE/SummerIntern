@@ -36,8 +36,10 @@
 
 -Today's Technical Tasks
 * Followed up for 623 HW1 with this link: https://www.askpython.com/python/examples/split-data-training-and-testing-set
+* Read up pandas.DataFrame.iloc https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html
 
 -Things to do:
 * Need to look at several modules of Python ML
 * 623 HW1 submission until tonight
 * Pandas practice example with this link: https://www.youtube.com/watch?v=lG8pEwvYwCw
+* sklearn: https://www.youtube.com/watch?v=a_F6Zu2-B1k
