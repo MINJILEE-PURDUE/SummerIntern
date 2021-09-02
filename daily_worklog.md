@@ -37,6 +37,7 @@
 -Today's Technical Tasks
 * Followed up for 623 HW1 with this link: https://www.askpython.com/python/examples/split-data-training-and-testing-set
 * Read up pandas.DataFrame.iloc https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html
+* *sklearn algorithm cheat sheet* https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 
 -Things to do:
 * Need to look at several modules of Python ML
