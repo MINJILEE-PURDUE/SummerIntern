@@ -35,7 +35,8 @@
 * Attended 581 ML class
 
 -Today's Technical Tasks
-* ML
+* Followed up for 623 HW1 with this link: https://www.askpython.com/python/examples/split-data-training-and-testing-set
 
 -Things to do:
+* Need to look at several modules of Python ML
 * 623 HW1 submission until tonight
