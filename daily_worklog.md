@@ -7,7 +7,7 @@
 * 
 
 -Today's Technical Tasks
-
+*
 
 ## 2st Week 08/29-09/04
 
@@ -15,5 +15,27 @@
 -Today's Non-Technical Tasks
 * DSOC Meet Up (Diverse Student Organization Council) at Noon @Memorial Mall
 
+
+### Wednesday, 1th
+-Today's Non-Technical Tasks
+* Attended 620 Eng class (presented self-introduction)
+* Set up the schedule with Xiouri for 9/10 instead of 9/6
+
 -Today's Technical Tasks
-* aa
+* Permutation & Combination definition review (link: https://blog.naver.com/prayer2k/222457755554)
+* Read up train_test_split() usages (link: https://blog.naver.com/gustn3964/221431914515)
+* Read up the document randn vs rand (link: https://newbedev.com/differences-between-numpy-random-rand-vs-numpy-random-randn-in-python)
+
+
+### Thursday, 2th
+-Today's Non-Technical Tasks
+* Read ENG 620 for Olivia meeting
+* Meeting with Xiaxin and discussed about splitting train/test sets by an identifier
+* ML explanation with my advisor
+* Attended 581 ML class
+
+-Today's Technical Tasks
+* ML
+
+-Things to do:
+* 623 HW1 submission until tonight
