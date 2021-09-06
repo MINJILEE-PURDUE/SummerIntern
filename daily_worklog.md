@@ -47,7 +47,7 @@
 * try this example: https://www.freecodecamp.org/news/end-to-end-machine-learning-project-turorial/
 
 
-### Sunday, 6th
+### Sunday, 5th
 -Today's Non-Technical Tasks
 * look up dataset
 
@@ -55,7 +55,7 @@
 * Practiced reading tasks: https://readlive.readnaturally.com/login
 
 
-### Sunday, 6th
+### Monday, 6th
 -Today's Non-Technical Tasks
 * Renewed academic healthy insurance plan
 * Activated Matlab account on online version
