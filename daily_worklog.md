@@ -66,3 +66,5 @@
 -Things to do:
 * Matlab basic tutorial remind
 * Need to wrap up the Korean kids project (paper)
+* Need to edit my resume/cv for career fair
+* ML assignment2
