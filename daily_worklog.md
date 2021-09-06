@@ -49,6 +49,14 @@
 
 ### Sunday, 6th
 -Today's Non-Technical Tasks
+* look up dataset
+
+-Today's Technical Tasks
+* Practiced reading tasks: https://readlive.readnaturally.com/login
+
+
+### Sunday, 6th
+-Today's Non-Technical Tasks
 * Renewed academic healthy insurance plan
 * Activated Matlab account on online version
 
