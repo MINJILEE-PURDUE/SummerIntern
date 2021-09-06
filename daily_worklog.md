@@ -45,3 +45,16 @@
 * Pandas practice example with this link: https://www.youtube.com/watch?v=lG8pEwvYwCw
 * sklearn: https://www.youtube.com/watch?v=a_F6Zu2-B1k
 * try this example: https://www.freecodecamp.org/news/end-to-end-machine-learning-project-turorial/
+
+
+### Sunday, 6th
+-Today's Non-Technical Tasks
+* Renewed academic healthy insurance plan
+* Activated Matlab account on online version
+
+-Today's Technical Tasks
+* reviewed statistic f-score, variance and correlation with lindear regression
+
+-Things to do:
+* Matlab basic tutorial remind
+* Need to wrap up the Korean kids project (paper)
