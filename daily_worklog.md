@@ -59,6 +59,7 @@
 -Today's Non-Technical Tasks
 * Renewed academic healthy insurance plan
 * Activated Matlab account on online version
+* Set up Acorn finally
 
 -Today's Technical Tasks
 * reviewed statistic f-score, variance and correlation with lindear regression
