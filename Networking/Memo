@@ -23,3 +23,7 @@ Switch(config)#interface
 Switch(config-if)#
 (config)에 if가 추가된 (config-if)를 표시하며 해당 인터페이스의 상세 설정을 위해 사용된다.
 해당 인터페이스의 IP나 Subnet 값을 설정할 수 있다. 
+
+CLI: https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus1000/sw/4_2_1_s_v_2_2_1/layer2/b_Cisco_Nexus_1000V_Layer_2_Switching_Configuration_Guide_Release_4_2_1_SV_2_2_1/b_Cisco_Nexus_1000V_Layer_2_Switching_Configuration_Guide_Release_4_2_1_SV_2_2_1_chapter_011.html#concept_213B0ADDE7204425A199BD9FB3A2528D
+
+dd
