@@ -1,6 +1,6 @@
 ## Router/Switch different type 4 mode
 
-Switch>
+* Switch>
 유저모드는 '>표시가 나오는 상태로 스위치 상태 보기만 가능하고 주로 ping test 하기 위해 사용된다.
 enable 명령어를 사용해 Privileged Mode로 들어갈 수 있다.
 
