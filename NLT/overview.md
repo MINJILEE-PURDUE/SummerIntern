@@ -20,3 +20,19 @@ Send MSG -> Encode -> Media -> Receive MSG -> Decode (받는 수신자가 컴퓨
 ## 3. Classification
 형태소 분석, 문서 분류, 개체명 인식 등 대부분의 자연어처리의 핵심은 **분류** 기술에 달려 있다.  
 과거에는 사람이 직접 특징 (feature)을 파악해서 분류했으나 실제 복잡한 문제에서는 분류 대상의 특징을 사람이 파악하기 어렵다는 이유로 근래에는 이러한 특징을 컴퓨터가 스스로 찾고 (feature extraction), 스스로 분류하는 것이 기계 학습의 핵심 기술이다.  
+
+
+04/01/2022
+
+## 1. Parts of Speech and Syntactic Parsing
+#### Keep in mind that:
+- Making judgments on grammar is not the goal of computational linguistics [Allen, 1988]
+- Checks are done to eliminate potential ambiguity that would arise if they were not used
+1. Flying planes are dangerous
+2. Flying planes is dangerous
+
+#### Constituency
+- Syntactic constituency is the idea that groups of words can behave as single units, or constituents.
+- Part of developing a grammar involves building an inventory of the constituents in the language.
+- How do words group together in English?
+- What evidence do we have that these words group together (or “form constituents”)?
