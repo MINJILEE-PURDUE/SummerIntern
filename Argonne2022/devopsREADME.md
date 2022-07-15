@@ -1,0 +1,1 @@
+The goal for the first half of summer internship aims to create an Ansible script for the NVidia Nano node platform. In the robotics and automation part as a second goal, it focuses on operating the current optimization system to the Argonne cloud by utilizing ROS, Docker and Singularity.
