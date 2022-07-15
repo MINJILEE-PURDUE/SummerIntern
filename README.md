@@ -1,1 +1,1 @@
-This folder has daily work-log during the academic year of Purdue in 2021.
+This repository contains detailed information about the summer intern at Argonne National Laboratory as a Research Aide PhD student.
