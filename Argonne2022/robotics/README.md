@@ -22,3 +22,21 @@ In order to enable the SSH access, run ```v```
 - TBC
 
 [^1]: One of the Opentrons products
+
+
+------ (updated August 1th)
+
+
+1. To create the docker group and add your user:
+
+2. Create the docker group: '''sudo groupadd docker'''
+
+3. Add your user to the docker group: '''sudo usermod -aG docker $USER
+
+4. '''newgrp docker '''
+
+to check the architecture: '''dpkg --print-architecture''' (arm64)
+
+
+ 
+ 
