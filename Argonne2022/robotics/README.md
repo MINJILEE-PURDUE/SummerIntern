@@ -9,7 +9,7 @@ Prerequisites: Basic Linux experience, familiarity with single-board computers l
 
 ### Hardware needed
 - OT-2[^1] Robot and Pipette (version xx.1)
-- Nvidia Jetson Nano installed and attachec JetPack 4.1.1 SD card image
+- Nvidia Jetson Nano installed and attachec JetPack 4.1.1 SD card image  /*Note. The Opentrons App for the OT-2 fully supports the following operating systems: Windows 10 or later, macOS 10.10 or later or Ubuntu 12.04 or later.*/
 
 ### Enabling root SSH access
 In order to enable the SSH access, run ```v```
