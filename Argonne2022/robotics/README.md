@@ -38,5 +38,4 @@ In order to enable the SSH access, run ```v```
 to check the architecture: '''dpkg --print-architecture''' (arm64)
 
 
- 
- 
+ docker run -i -t imageID 
