@@ -1,4 +1,4 @@
-# Environment description to control/manage Opentrons under the Docker container
+# Environment description to control/manage Opentrons using the Docker container
 Prerequisites: Basic Linux experience, familiarity with single-board computers like a Raspberry Pi, and a basic skill of Docker/ROS.
 
 ### Table of contents:
@@ -8,11 +8,16 @@ Prerequisites: Basic Linux experience, familiarity with single-board computers l
 4. Run Python code
 
 ### Hardware needed
-- OT-2[^1] Robot and Pipette (version xx.1)
-- Nvidia Jetson Nano installed and attachec JetPack 4.1.1 SD card image  /*Note. The Opentrons App for the OT-2 fully supports the following operating systems: Windows 10 or later, macOS 10.10 or later or Ubuntu 12.04 or later.*/
+- OT-2[^1] Robot and Pipettes
+- Nvidia Jetson Nano installed and attached [JetPack 4.1.1 SD card image](https://developer.nvidia.com/embedded/jetpack-sdk-441-archive)
 
 ### Enabling root SSH access
-In order to enable the SSH access, run ```v```
+1. Install third-party tools as a first step: ```cURL``` and ```OepnSSH``` (Note. both might be installed by default on Linux.)
+2. Generate a key pair: (1) Run ssh-keygen ```ssh-keygen -f ot2_ssh_key``` and press enter,
+
+2. Enter a passphrase
+
+
 ```service sshd restart```
 
 ### Establishing connection
