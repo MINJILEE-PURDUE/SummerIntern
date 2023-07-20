@@ -1,6 +1,6 @@
 ### 1st Weekly Report
 
-## Objectives
+#### Objectives
 
 1: 외부 사례 조사를 통한 MLOps 플랫폼 동향 조사​
 
